@@ -1,0 +1,6 @@
+{
+  "name": "Frontend Best Practices Showcase",
+  "description": "An interactive educational dashboard demonstrating modern frontend design, responsive layouts, motion animations, accessible navigations, and secure input validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
